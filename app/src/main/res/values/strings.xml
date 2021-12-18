@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TuristTic</string>
+    <string name="Titulo_boquilla_text_view">La Boquilla</string>
+    <string name="LaBoquillaDescripcionTextView">La Boquilla es un corregimiento pesquero de raíces afrocaribeñas situado en el punto más al norte de Cartagena, ciudad que por décadas ha sido admirada en el mundo por su arquitectura e ingeniería colonial.</string>
+</resources>
